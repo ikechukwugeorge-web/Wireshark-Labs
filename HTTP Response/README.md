@@ -4,7 +4,7 @@ Analyzed an HTTP response to identify the returned status code, response headers
 
 Skills Demonstrated
 ------------------
-HTTP Response
-Status Codes
-Content-Type
+HTTP Response,
+Status Codes,
+Content-Type,
 Response headers
