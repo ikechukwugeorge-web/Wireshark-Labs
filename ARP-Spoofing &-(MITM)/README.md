@@ -1,7 +1,11 @@
 ARP Spoofing & Man-in-the-Middle (MITM) Attack
 Overview
+---------
 Demonstrated network-level Man-in-the-Middle attack using ARP Spoofing to intercept traffic between a victim device and the gateway.
+-------------
+
 Tools Used
+-----------
 
 Bettercap
 Wireshark
