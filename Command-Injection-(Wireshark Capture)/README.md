@@ -17,11 +17,17 @@ Methodology & Steps
 
 Identified potential injection points (search bar, complaint form).
 Injected common command injection payloads:
-; whoami 
-& whoami
-| whoami
-$(whoami)
 
+; whoami 
+--------
+& whoami
+--------
+| whoami
+---------
+$(whoami)
+---------
+; ls
+---------
 Monitored both application response and network traffic in Wireshark.
 
 Key Findings
